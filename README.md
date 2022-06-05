@@ -13,6 +13,8 @@
 
 - ⚡ Fun fact **I have had two jobs as "Ambassador", ten years apart, at the same company.**
 
+- 📚 My hobbies are  **reading SciFi and Fantasy novels, weightlifting (the sport that uses kilograms), and international travel.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/algo_seth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="algo_seth" height="30" width="40" /></a>
