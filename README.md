@@ -11,9 +11,9 @@
 
 - 📫 How to reach me **LinkedIn or Twitter**
 
-- ⚡ Fun fact **I have had two jobs as "Ambassador", ten years apart, at the same company.**
+- ⚡ Fun fact **I have had two jobs as "Ambassador", ten years apart, at the same company**
 
-- 📚 My hobbies are  **reading SciFi and Fantasy novels, weightlifting (the sport that uses kilograms), and international travel.**
+- 📚 My hobbies are  **reading SciFi and Fantasy novels, weightlifting (the sport that uses kilograms), and international travel**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
