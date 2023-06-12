@@ -2,7 +2,7 @@
 <h3 align="center">A financial engineer who loves talking to people.</h3>
 
 - 🔭 I’m currently working on **building trading analytics tools for BofA's Treasury**
-- 
+
 - 🌱 I’m currently learning **QuantConnect LEAN**
 
 - 👯 I’m looking to collaborate on **anything fun that has to do with market interaction**
