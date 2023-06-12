@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Seth!</h1>
 <h3 align="center">A financial engineer who loves talking to people.</h3>
 
-- 🔭 I’m currently working on **lots of trading ideas**
+- 🔭 I’m currently working on **learning QuantConnect LEAN**
 
 - 🌱 I’m currently learning **plenty of things**
 
